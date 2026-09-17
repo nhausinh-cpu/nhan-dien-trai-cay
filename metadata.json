@@ -1,0 +1,6 @@
+{
+  "name": "Nhận diện trái cây",
+  "description": "Ứng dụng nhận diện các loại trái cây và rau củ bằng camera và Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
